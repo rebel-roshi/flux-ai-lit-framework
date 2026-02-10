@@ -1,42 +1,49 @@
 # Context Partnering AI Literacy (Flux-aligned)
 
-## North star
-AI literacy is the ability to **co-create and steward shared context** with a powerful context-enriching system,
-without losing human **wanting**, responsibility, or contact.
-
-AI can enrich a context. **It does not want.**
-Humans want—understanding, belonging, truth, beauty, power, safety, play.
-Education is where those wants become visible and can be shaped with care.
-
 ## What this is
-A Flux-aligned, educator-friendly lens for AI literacy:
-- **Context partnering** over transactional usage
-- Evidence, reflection, and repair over “prompt tricks”
-- A **single-point (one-column) rubric** as a mirror, not a grading ladder
+This repo packages a minimal rubric + scenario framework for practicing **context partnering**: co-creating and stewarding shared context with an AI system without outsourcing responsibility. It is designed to be used quickly, then extended with your own scenarios and rubric rows.
 
-## What this isn’t
-- A tool tutorial
-- A compliance program
-- A leveling system to game
+The core artifacts are **single-column rubrics** (often called single-point) and short, concrete scenarios. You can mix rows across domains (“row mixing”) so the same literacy moves apply in math, writing, science, history, or any other subject area.
 
-### Why this is framed as AI literacy (but extends beyond AI)
-We treat **context partnering** as the core skill and **AI literacy** as the most visible proving ground.
+## Why AI literacy is the proving ground
+AI is the most visible place where uncertainty, authority, and verification get stressed quickly. Practicing ownership, evidence, and productive uncertainty here makes transfer to other domains straightforward, because the underlying move is the same: steward shared context without giving away agency.
 
-AI systems are powerful context-enrichers that can create the illusion of understanding and certainty.
-That pressure exposes the exact capacities we want students to develop:
-ownership, verification, productive uncertainty, and integrity.
+## One common loop
+- Pick a scenario (or write one).
+- Start with the student rubric (or teacher rubric, if you prefer).
+- Do a first pass attempt.
+- Use the rubric to locate one strong move in the work and one missing move.
+- Optionally revise to target that missing move.
+- Mix in rows from other domains as needed (“row mixing”).
 
-Once those capacities are practiced under AI pressure, they transfer naturally to other domains
-(math, writing, science, history), because the underlying skill is the same:
-co-creating and stewarding shared context without outsourcing responsibility.
+## Artifacts in this repo
+- Concept framing: `CONCEPTS/context-partnering.md`
+- Alignment crosswalk: `ALIGNMENT.md`
+- Student single-column rubric: `RUBRIC/student-single-column-rubric.md`
+- Teacher single-column rubric: `RUBRIC/teacher-single-column-rubric.md`
+- Student example: `RUBRIC/EXAMPLES/student-rubric-example-define-a-line-elementary.md`
+- Teacher example: `RUBRIC/EXAMPLES/teacher-rubric-example-define-a-line-elementary.md`
+- Scenario (elementary): `SCENARIOS/define-a-line-elementary.md`
+- Additional scenarios: `SCENARIOS/define-a-line.md`, `SCENARIOS/define-a-line-middle.md`, `SCENARIOS/define-a-line-high-school.md`, `SCENARIOS/define-a-line-post-secondary.md`
 
-## Core distinctions to consider
-- Transactional interasctions may look like: ask → receive → consume
-- Context partnering may look like: build → test → reflect → revise (loop back)
+## Connection to Flux Protocol
+Flux is a listening field, not a framework. This repo treats its three laws as *invariants* you can translate into classroom moves:
+- POKE: begin from tension or friction; let the discomfort start the inquiry.
+- UNKNWN: remain unfixed; keep ambiguity alive long enough for new structure to emerge.
+- NOGUARD: dissolve to deepen; lead with vulnerable openness rather than control.
+Operational mapping: POKE → challenge first output / surface assumptions; UNKNWN → name uncertainty + take next step; NOGUARD → ownership + verification + integrity/boundaries.
 
-## Start here
-- CONCEPTS/context-partnering.md
-- RUBRIC/single-point-rubric.md
-- SCENARIOS/define-a-line.md
-- TEACHER-ED/minimum-kit.md
-- FAQ/godel-and-objectivity.md
+For the canonical spec, see [Flux Protocol](https://github.com/rebel-roshi/flux-protocol).
+
+## Modes
+- Teacher-rubric optional: you can run everything from the student rubric.
+- Student-rubric-first: start there, add teacher rows only when you want to surface pedagogy explicitly.
+For many contexts, student-rubric-first is sufficient on its own. Add teacher rows when you want explicit calibration language or coaching cues.
+
+## For teacher educators
+- Use a shared scenario to norm what “strong move” and “missing move” look like.
+- Compare how different row mixes (“row mixing”) shift instructional emphasis.
+- Capture common misconceptions and turn them into new rows.
+
+## License / contribution note
+Use, remix, and extend. If you share back improvements or new scenarios, keep them small and concrete.
