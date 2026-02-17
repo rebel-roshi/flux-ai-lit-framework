@@ -12,11 +12,11 @@ These practice cards help teacher educators notice evidence and choose next move
 - Student makes and justifies a choice (method/tool/representation).
 - Student distinguishes their thinking from tool output.
 
-**Common failure mode:**
+**Common drift:**
 - “Because AI said so” or “because the teacher said so,” without ownership of reasoning.
 
-**Next move:**
-- Ask for a keep/change/reject decision with a reason.
+**Re-entry question:**
+- Where is authorship visible, and where is it deferred?
 
 **Defined-by-reference:**
 - [Teacher rubric](../RUBRIC/teacher-single-column-rubric.md#1-ownership-agency--authorship)
@@ -35,11 +35,11 @@ These practice cards help teacher educators notice evidence and choose next move
 - A correction is made after checking.
 - A failure mode is named and tested.
 
-**Common failure mode:**
+**Common drift:**
 - Accepting plausible output without a check.
 
-**Next move:**
-- Require one stress test: “What would make this fail?”
+**Re-entry question:**
+- What check would make this claim trustworthy here?
 
 **Defined-by-reference:**
 - [Teacher rubric](../RUBRIC/teacher-single-column-rubric.md#2-verification-validate-with-evidence)
@@ -58,11 +58,11 @@ These practice cards help teacher educators notice evidence and choose next move
 - Close concepts are distinguished (example vs non-example).
 - The question or prompt is improved for clarity or testability.
 
-**Common failure mode:**
+**Common drift:**
 - Working inside a vague or shifting frame without naming it.
 
-**Next move:**
-- Ask for one tightened definition or a better question.
+**Re-entry question:**
+- What definition or constraint would make the frame workable right now?
 
 **Defined-by-reference:**
 - [Teacher rubric](../RUBRIC/teacher-single-column-rubric.md#3-context-building-make-the-frame-workable)
@@ -81,11 +81,11 @@ These practice cards help teacher educators notice evidence and choose next move
 - A bounded next step is chosen.
 - Two possibilities are held with a test to decide.
 
-**Common failure mode:**
+**Common drift:**
 - Collapsing uncertainty into avoidance or a guess.
 
-**Next move:**
-- Ask for the next smallest testable step.
+**Re-entry question:**
+- What is still unclear, and what is the smallest next step that stays with it?
 
 **Defined-by-reference:**
 - [Teacher rubric](../RUBRIC/teacher-single-column-rubric.md#4-staying-with-the-unknown)
@@ -104,11 +104,11 @@ These practice cards help teacher educators notice evidence and choose next move
 - Private or inappropriate data is not shared.
 - The student chooses a non-AI path when appropriate.
 
-**Common failure mode:**
+**Common drift:**
 - Hidden outsourcing or unclear tool use.
 
-**Next move:**
-- Add a short tool-use note and one verification note.
+**Re-entry question:**
+- What needs to be disclosed or bounded for this to stay safe and honest?
 
 **Defined-by-reference:**
 - [Teacher rubric](../RUBRIC/teacher-single-column-rubric.md#5-integrity--boundaries-safe--honest--appropriate)

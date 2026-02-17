@@ -51,12 +51,12 @@ Say in plain language:
   - What common misconception might show up?
 - Write a 1–2 bullet **Understanding anchor** per chosen row (teacher scaffold).
 
-### 5) Repair move practice (10–15 min)
+### 5) Re-entry practice (10–15 min)
 - Everyone revises once, targeting the missing move (optional but recommended).
-- Name the repair move in plain language:
-  - “I added a check…”
-  - “I clarified the definition…”
-  - “I asked a better question…”
+- Name the re-entry question in plain language:
+  - “What check would make this trustworthy?”
+  - “What definition would make it workable?”
+  - “What question would sharpen the context?”
 
 ### 6) Commit to the next cycle (5 min)
 Each participant writes:
@@ -66,23 +66,23 @@ Each participant writes:
 
 ---
 
-## Failure modes → repair moves (starter set)
+## Common drifts → re-entry questions (starter set)
 Use these as facilitator prompts, not as “levels.”
 
 - **If you see outsourcing authority** (“AI said, so it’s true”) →
-  **Repair:** add a verification row + require one domain check.
+  **Re-entry question:** What evidence would make this claim yours?
 - **If you see vague prompting** (“tell me about…”) →
-  **Repair:** use the “ask a better question” row (make it checkable).
+  **Re-entry question:** What would make the question more specific or checkable?
 - **If you see premature collapse** (“I don’t know”) →
-  **Repair:** use the “staying with the unknown” row: name the unknown + take one bounded next step.
+  **Re-entry question:** What is still unclear, and what is the smallest next step?
 - **If you see hidden tool use / integrity issues** →
-  **Repair:** use the integrity row: disclose what was used + what was verified.
+  **Re-entry question:** What needs to be disclosed or bounded for this to stay safe and honest?
 
 ---
 
 ## Questions to carry (not prompts to recite)
 These are questions a teacher educator can *hold internally* while watching work and listening.
-They guide noticing, calibration, and repair without turning facilitation into a script.
+They guide noticing, calibration, and re-entry without turning facilitation into a script.
 Use whatever fits your context; silence is allowed.
 
 ### Ownership (agency / authorship)
