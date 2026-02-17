@@ -19,6 +19,13 @@
 - UNKNWN handling
 - Integrity & boundaries
 
+## How to use this crosswalk
+- Tag row packs or individual rows (not student evidence).
+- Use 1–2 primary tags per row.
+- Multi-tag only when a move truly spans frameworks.
+- Tags are descriptive, not evaluative.
+- When unsure, tag the move being practiced (ownership, verification, context building, UNKNWN handling, integrity & boundaries).
+
 ## Crosswalk table
 | Our stable dimension | Digital Promise mode(s) | AILit domain(s) | Notes for row packs |
 | --- | --- | --- | --- |

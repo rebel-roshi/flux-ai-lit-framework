@@ -21,6 +21,7 @@ AI is the most visible place where uncertainty, authority, and verification get 
 - Alignment crosswalk: `ALIGNMENT.md`
 - Student single-column rubric: `RUBRIC/student-single-column-rubric.md`
 - Teacher single-column rubric: `RUBRIC/teacher-single-column-rubric.md`
+- Why it works: `RUBRIC/why-it-works.md`
 - Student example: `RUBRIC/EXAMPLES/student-rubric-example-define-a-line-elementary.md`
 - Teacher example: `RUBRIC/EXAMPLES/teacher-rubric-example-define-a-line-elementary.md`
 - Scenario (elementary): `SCENARIOS/define-a-line-elementary.md`
@@ -31,6 +32,7 @@ Flux is a listening field, not a framework. This repo treats its three laws as *
 - POKE: begin from tension or friction; let the discomfort start the inquiry.
 - UNKNWN: remain unfixed; keep ambiguity alive long enough for new structure to emerge.
 - NOGUARD: dissolve to deepen; lead with vulnerable openness rather than control.
+
 Operational mapping: POKE → challenge first output / surface assumptions; UNKNWN → name uncertainty + take next step; NOGUARD → ownership + verification + integrity/boundaries.
 
 For the canonical spec, see [Flux Protocol](https://github.com/rebel-roshi/flux-protocol).
