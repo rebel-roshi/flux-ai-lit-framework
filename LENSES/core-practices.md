@@ -23,7 +23,7 @@ These practice cards help teacher educators notice evidence and choose next move
 - [AI literacy core row pack](../ROW_PACKS/ai-literacy-core.md#ownership-agency--authorship)
 - [Teacher rubric example](../RUBRIC/EXAMPLES/teacher-rubric-example-define-a-line-elementary.md#row-1-ownership-agency--authorship)
 
-**Flux link:** NOGUARD — ownership without outsourcing authority.
+**Protocol note:** NOGUARD — ownership without outsourcing authority.
 
 ---
 
@@ -46,7 +46,7 @@ These practice cards help teacher educators notice evidence and choose next move
 - [AI literacy core row pack](../ROW_PACKS/ai-literacy-core.md#verification-validate-with-evidence)
 - [Teacher rubric example](../RUBRIC/EXAMPLES/teacher-rubric-example-define-a-line-elementary.md#row-2-verification-validate-with-evidence)
 
-**Flux link:** POKE — challenge the first answer with evidence.
+**Protocol note:** POKE — challenge the first answer with evidence.
 
 ---
 
@@ -69,12 +69,12 @@ These practice cards help teacher educators notice evidence and choose next move
 - [AI literacy core row pack](../ROW_PACKS/ai-literacy-core.md#context-building-make-the-frame-workable)
 - [Teacher rubric example](../RUBRIC/EXAMPLES/teacher-rubric-example-define-a-line-elementary.md#row-3-context-building-make-the-frame-workable)
 
-**Flux link:** POKE — surface assumptions to sharpen the frame.
+**Protocol note:** POKE — surface assumptions to sharpen the frame.
 
 ---
 
 ## Staying with the unknown
-**What this practice notices:** Whether uncertainty is named and used productively toward a next step.
+**What this practice notices:** Whether uncertainty is named without premature closure, and movement is made toward a next step.
 
 **Evidence cues (look fors):**
 - A specific unknown is named (not just “I’m stuck”).
@@ -92,7 +92,7 @@ These practice cards help teacher educators notice evidence and choose next move
 - [AI literacy core row pack](../ROW_PACKS/ai-literacy-core.md#staying-with-the-unknown)
 - [Teacher rubric example](../RUBRIC/EXAMPLES/teacher-rubric-example-define-a-line-elementary.md#row-4-staying-with-the-unknown)
 
-**Flux link:** UNKNWN — remain unfixed long enough to learn.
+**Protocol note:** UNKNWN — remain unfixed long enough to learn.
 
 ---
 
@@ -115,4 +115,4 @@ These practice cards help teacher educators notice evidence and choose next move
 - [AI literacy core row pack](../ROW_PACKS/ai-literacy-core.md#integrity--boundaries-safe--honest--appropriate)
 - [Teacher rubric example](../RUBRIC/EXAMPLES/teacher-rubric-example-define-a-line-elementary.md#row-5-integrity--boundaries-safe--honest--appropriate)
 
-**Flux link:** NOGUARD — integrity and boundaries without coercion.
+**Protocol note:** NOGUARD — integrity and boundaries without coercion.
