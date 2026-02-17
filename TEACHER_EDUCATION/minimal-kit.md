@@ -74,7 +74,7 @@ Use these as facilitator prompts, not as “levels.”
 - **If you see vague prompting** (“tell me about…”) →
   **Repair:** use the “ask a better question” row (make it checkable).
 - **If you see premature collapse** (“I don’t know”) →
-  **Repair:** use the UNKNWN row: name the unknown + take one bounded next step.
+  **Repair:** use the “staying with the unknown” row: name the unknown + take one bounded next step.
 - **If you see hidden tool use / integrity issues** →
   **Repair:** use the integrity row: disclose what was used + what was verified.
 
@@ -85,27 +85,27 @@ These are questions a teacher educator can *hold internally* while watching work
 They guide noticing, calibration, and repair without turning facilitation into a script.
 Use whatever fits your context; silence is allowed.
 
-### Ownership (who holds meaning?)
+### Ownership (agency / authorship)
 - Where did the locus of authority move?
 - What choice did the learner make, and what reason did they give?
 - What would it look like for the learner to reclaim authorship here?
 
-### Verification (what deserves a check?)
+### Verification (validate with evidence)
 - Which claim is “load-bearing” in this work?
 - What is one domain-appropriate check that would increase confidence?
 - If this were wrong, how would we find out quickly?
 
-### Context building (what frame is implicit?)
+### Context building (make the frame workable)
 - What assumption is silently doing the work?
 - What definition would make this task workable right now?
 - What boundary case would clarify the concept?
 
-### UNKNWN handling (how is uncertainty treated?)
+### Staying with the unknown
 - What is unclear *specifically*, and is it being named?
 - What’s the smallest next step that keeps learning alive?
 - Where is the impulse to collapse, and what would “stay with it” look like?
 
-### Integrity & boundaries (what must be protected?)
+### Integrity & boundaries (safe / honest / appropriate)
 - What disclosure is needed for honesty/learning?
 - Where are privacy/consent/class norms relevant?
 - When is “don’t use AI” the most skillful move?

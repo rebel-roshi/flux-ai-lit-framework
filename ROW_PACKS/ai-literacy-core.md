@@ -2,7 +2,7 @@
 
 ## What this is
 A small, stable set of rows you can mix into **any** assignment (math, writing, science, history, etc.)
-to practice AI literacy as **context partnering**: ownership, verification, context building, UNKNWN handling,
+to practice AI literacy as **context partnering**: ownership, verification, context building, staying with the unknown,
 and integrity/boundaries.
 
 ## How to use
@@ -16,7 +16,7 @@ and integrity/boundaries.
 
 ---
 
-## Ownership (who is responsible for meaning?)
+## Ownership (agency / authorship)
 
 ### Row: `I can state my goal and make choices about how to use tools (including AI) to reach it.`
 - Tags: `DP:UNDERSTAND`, `AILIT:ENGAGE`
@@ -34,7 +34,7 @@ and integrity/boundaries.
 
 ---
 
-## Verification (treat outputs as candidates)
+## Verification (validate with evidence)
 
 ### Row: `I can verify a tool/AI claim using domain evidence (test, example, source, or second method).`
 - Tags: `DP:EVALUATE`, `AILIT:MANAGE`
@@ -77,7 +77,7 @@ and integrity/boundaries.
 
 ---
 
-## UNKNWN handling (use uncertainty productively)
+## Staying with the unknown
 
 ### Row: `I can name what I don’t know yet and take one bounded next step.`
 - Tags: `DP:EVALUATE`, `AILIT:ENGAGE`
@@ -95,7 +95,7 @@ and integrity/boundaries.
 
 ---
 
-## Integrity & boundaries (safe, appropriate, honest)
+## Integrity & boundaries (safe / honest / appropriate)
 
 ### Row: `I can follow our class norms for tool/AI use (privacy, attribution, appropriate use).`
 - Tags: `DP:UNDERSTAND`, `AILIT:MANAGE`

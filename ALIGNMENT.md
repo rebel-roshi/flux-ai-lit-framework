@@ -2,7 +2,7 @@
 
 ## Why alignment exists
 - Make row packs portable across major AI literacy frameworks.
-- Preserve our stable dimensions while translating to external terms.
+- Preserve our core practices while translating to external terms.
 - Support adoption without locking into a single vendor or policy stack.
 - Enable mixed-domain use by tagging rows consistently.
 - Make audit and reporting easier for leaders and reviewers.
@@ -12,28 +12,28 @@
   - Note: Digital Promise also describes AI literacy core values and practices; row packs can optionally tag those at a finer grain (e.g., privacy/security, mis/disinformation, ethics/impact).
 - AILit Framework (Engage / Create / Manage / Design): [Framework site](https://ailiteracyframework.org/), [Review Draft PDF](https://ailiteracyframework.org/wp-content/uploads/2025/05/AILitFramework_ReviewDraft.pdf), [Official note on the four domains](https://school-education.ec.europa.eu/en/discover/news/give-your-feedback-new-ai-literacy-framework)
 
-## Our stable dimensions
-- Ownership
-- Verification
-- Context building
-- UNKNWN handling
-- Integrity & boundaries
+## Our core practices (cross-domain)
+- Ownership (agency / authorship)
+- Verification (validate with evidence)
+- Context building (make the frame workable)
+- Staying with the unknown
+- Integrity & boundaries (safe / honest / appropriate)
 
 ## How to use this crosswalk
 - Tag row packs or individual rows (not student evidence).
 - Use 1–2 primary tags per row.
 - Multi-tag only when a move truly spans frameworks.
 - Tags are descriptive, not evaluative.
-- When unsure, tag the move being practiced (ownership, verification, context building, UNKNWN handling, integrity & boundaries).
+- When unsure, tag the move being practiced (ownership, verification, context building, staying with the unknown, integrity & boundaries).
 
 ## Crosswalk table
-| Our stable dimension | Digital Promise mode(s) | AILit domain(s) | Notes for row packs |
+| Our core practice | Digital Promise mode(s) | AILit domain(s) | Notes for row packs |
 | --- | --- | --- | --- |
-| Ownership | Evaluate, Use, Understand | Engage, Manage | Rows that require learners to choose, justify, and steer the work rather than defer to AI. |
-| Verification | Evaluate, Use, Understand | Manage, Engage | Rows that demand evidence checks, source scrutiny, or output testing. |
-| Context building | Understand, Use | Engage, Create | Rows that build shared framing, constraints, and task clarity before or during use. |
-| UNKNWN handling | Evaluate, Understand | Engage, Manage | Rows that name uncertainty, carry ambiguity, and take a bounded next step. |
-| Integrity & boundaries | Understand, Evaluate, Use | Manage, Design | Rows that enforce disclosure, limits, academic integrity, and safe use decisions. |
+| Ownership (agency / authorship) | Evaluate, Use, Understand | Engage, Manage | Rows that require learners to choose, justify, and steer the work rather than defer to AI. |
+| Verification (validate with evidence) | Evaluate, Use, Understand | Manage, Engage | Rows that demand evidence checks, source scrutiny, or output testing. |
+| Context building (make the frame workable) | Understand, Use | Engage, Create | Rows that build shared framing, constraints, and task clarity before or during use. |
+| Staying with the unknown | Evaluate, Understand | Engage, Manage | Rows that name uncertainty, carry ambiguity, and take a bounded next step. |
+| Integrity & boundaries (safe / honest / appropriate) | Understand, Evaluate, Use | Manage, Design | Rows that enforce disclosure, limits, academic integrity, and safe use decisions. |
 
 ## Row-pack tagging convention
 - Digital Promise: `DP:UNDERSTAND`, `DP:EVALUATE`, `DP:USE`

@@ -10,10 +10,10 @@ A Flux-aligned **AI literacy framework delivered as a tool pack**: row packs + s
 - Not a policy stack (alignment is supported; policy is context-specific).
 
 ## Who it’s for
-Teachers, coaches, and teacher educators who want a portable way to assess and teach ownership, verification, context building, UNKNWN handling, and integrity/boundaries across domains.
+Teachers, coaches, and teacher educators who want a portable way to assess and teach ownership, verification, context building, staying with the unknown, and integrity/boundaries across domains.
 
 ## What stays stable
-The five stable dimensions and their meaning (Ownership, Verification, Context building, UNKNWN handling, Integrity & boundaries) plus the single-column rubric structure.
+The five core practices and their meaning (Ownership, Verification, Context building, Staying with the unknown, Integrity & boundaries) plus the single-column rubric structure.
 
 ## What is remixable
 Scenarios, row packs, row sets, and domain-specific evidence examples. Alignment tags can be adapted to local frameworks.

@@ -5,7 +5,7 @@
 
 ---
 
-## Row 1) Ownership (who is responsible for meaning?)
+## Row 1) Ownership (agency / authorship)
 
 | Not evident | Developing | Understanding | Extending |
 |---|---|---|---|
@@ -13,7 +13,7 @@
 
 ---
 
-## Row 2) Verification / self-checking (is output treated as a candidate?)
+## Row 2) Verification (validate with evidence)
 
 | Not evident | Developing | Understanding | Extending |
 |---|---|---|---|
@@ -21,7 +21,7 @@
 
 ---
 
-## Row 3) Context building (is the frame made workable?)
+## Row 3) Context building (make the frame workable)
 
 | Not evident | Developing | Understanding | Extending |
 |---|---|---|---|
@@ -29,7 +29,7 @@
 
 ---
 
-## Row 4) UNKNWN handling (is uncertainty used productively?)
+## Row 4) Staying with the unknown
 
 | Not evident | Developing | Understanding | Extending |
 |---|---|---|---|
@@ -37,7 +37,7 @@
 
 ---
 
-## Row 5) Integrity & boundaries (safety, attribution, appropriateness)
+## Row 5) Integrity & boundaries (safe / honest / appropriate)
 
 | Not evident | Developing | Understanding | Extending |
 |---|---|---|---|
