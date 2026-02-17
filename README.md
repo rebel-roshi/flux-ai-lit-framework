@@ -19,6 +19,7 @@ AI is the most visible place where uncertainty, authority, and verification get 
 ## Artifacts in this repo
 - Concept framing: `CONCEPTS/context-partnering.md`
 - Alignment crosswalk: `ALIGNMENT.md`
+- Core practices (field cards): `LENSES/core-practices.md`
 - Student single-column rubric: `RUBRIC/student-single-column-rubric.md`
 - Teacher single-column rubric: `RUBRIC/teacher-single-column-rubric.md`
 - Why it works: `RUBRIC/why-it-works.md`

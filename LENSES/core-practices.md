@@ -1,6 +1,10 @@
 # Core practices (cross-domain)
 
 These practice cards help teacher educators notice evidence and choose next moves without turning the framework into a checklist. Each practice is defined primarily by reference to existing rows, rubrics, and examples.
+Connections carry the detail to keep this non-prescriptive; start with the links.
+Protocol notes point to Flux as the underlying mechanism; the practices are this framework's classroom-facing expression that animates it.
+
+See also: [MAP](../MAP.md)
 
 ---
 

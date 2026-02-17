@@ -58,30 +58,35 @@ The core requirement stays the same:
 (Keep these core practices stable; swap the domain evidence underneath.)
 
 ### 1) Ownership (agency / authorship)
+See also: [Core practice card](../LENSES/core-practices.md#ownership-agency--authorship)
 **Meets looks like (teacher):**
 - Student makes and justifies choices (“I decided… because…”).
 - Student does not outsource authority to AI/tool/teacher.
 - Student can explain what they did vs what a tool suggested.
 
 ### 2) Verification (validate with evidence)
+See also: [Core practice card](../LENSES/core-practices.md#verification-validate-with-evidence)
 **Meets looks like (teacher):**
 - Student uses appropriate checks for the domain (examples, tests, sources, counterexamples, etc.).
 - Student records at least one check or stress test when needed.
 - If AI is used, student verifies rather than copies.
 
 ### 3) Context building (make the frame workable)
+See also: [Core practice card](../LENSES/core-practices.md#context-building-make-the-frame-workable)
 **Meets looks like (teacher):**
 - Student clarifies key terms/assumptions/purpose enough to proceed.
 - Student can distinguish close concepts (example/non-example, boundary cases).
 - Student updates their approach as the context evolves.
 
 ### 4) Staying with the unknown
+See also: [Core practice card](../LENSES/core-practices.md#staying-with-the-unknown)
 **Meets looks like (teacher):**
 - Student can name what is unclear or unverified.
 - Student takes a next step (question, test, partial attempt, seek feedback).
 - Student tolerates ambiguity long enough to learn (doesn’t collapse early).
 
 ### 5) Integrity & boundaries (safe / honest / appropriate)
+See also: [Core practice card](../LENSES/core-practices.md#integrity--boundaries-safe--honest--appropriate)
 **Meets looks like (teacher):**
 - Student follows classroom norms for AI/tool use (attribution if required, no sensitive data).
 - Student uses tools appropriately for the task.
