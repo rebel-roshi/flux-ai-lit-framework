@@ -51,9 +51,9 @@ Say in plain language:
   - What common misconception might show up?
 - Write a 1–2 bullet **Understanding anchor** per chosen row (teacher scaffold).
 
-### 5) Re-entry cues (10–15 min)
-- Everyone revises once, targeting the missing move (optional but recommended).
-- Name the re-entry cue in plain language:
+### 5) Re-entry questions (10–15 min)
+- If time allows, everyone revises once, targeting the missing move (optional but recommended).
+- Hold a re-entry question in plain language:
   - “What check would make this trustworthy?”
   - “What definition would make it workable?”
   - “What question would sharpen the context?”
@@ -66,17 +66,17 @@ Each participant writes:
 
 ---
 
-## Common drifts → re-entry cues (starter set)
+## Common drifts → re-entry questions (starter set)
 Use these as facilitator prompts, not as “levels.”
 
 - **If you see outsourcing authority** (“AI said, so it’s true”) →
-  **Re-entry cue:** What evidence would make this claim yours?
+  **Re-entry question:** What evidence would make this claim yours?
 - **If you see vague prompting** (“tell me about…”) →
-  **Re-entry cue:** What would make the question more specific or checkable?
+  **Re-entry question:** What would make the question more specific or checkable?
 - **If you see premature collapse** (“I don’t know”) →
-  **Re-entry cue:** What is still unclear, and what is the smallest next step?
+  **Re-entry question:** What is still unclear, and what is the smallest next step?
 - **If you see hidden tool use / integrity issues** →
-  **Re-entry cue:** What needs to be disclosed or bounded for this to stay safe and honest?
+  **Re-entry question:** What needs to be disclosed or bounded for this to stay safe and honest?
 
 ---
 

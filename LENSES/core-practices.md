@@ -1,9 +1,10 @@
 # Core practices (cross-domain)
 
 These practice cards help teacher educators notice evidence and choose next moves without turning the framework into a checklist. Each practice is defined primarily by reference to existing rows, rubrics, and examples.
-Connections carry the detail to keep this non-prescriptive; start with the links.
+Connections carry the detail to keep this non-prescriptive; lean on the links as needed.
 Protocol notes point to Flux as the underlying mechanism; the practices are this framework's classroom-facing expression that animates it.
 
+Protocol grounding: [Connection to Flux Protocol](../README.md#connection-to-flux-protocol) · [Flux mapping in row pack](../ROW_PACKS/ai-literacy-core.md#flux-mapping-optional-note)
 See also: [MAP](../MAP.md)
 
 ---
@@ -26,6 +27,7 @@ See also: [MAP](../MAP.md)
 - [Teacher rubric](../RUBRIC/teacher-single-column-rubric.md#1-ownership-agency--authorship)
 - [AI literacy core row pack](../ROW_PACKS/ai-literacy-core.md#ownership-agency--authorship)
 - [Teacher rubric example](../RUBRIC/EXAMPLES/teacher-rubric-example-define-a-line-elementary.md#row-1-ownership-agency--authorship)
+- [Student rubric template](../RUBRIC/student-single-column-rubric.md)
 
 **Protocol note:** NOGUARD — ownership without outsourcing authority.
 
@@ -49,6 +51,7 @@ See also: [MAP](../MAP.md)
 - [Teacher rubric](../RUBRIC/teacher-single-column-rubric.md#2-verification-validate-with-evidence)
 - [AI literacy core row pack](../ROW_PACKS/ai-literacy-core.md#verification-validate-with-evidence)
 - [Teacher rubric example](../RUBRIC/EXAMPLES/teacher-rubric-example-define-a-line-elementary.md#row-2-verification-validate-with-evidence)
+- [Student rubric template](../RUBRIC/student-single-column-rubric.md)
 
 **Protocol note:** POKE — challenge the first answer with evidence.
 
@@ -72,6 +75,7 @@ See also: [MAP](../MAP.md)
 - [Teacher rubric](../RUBRIC/teacher-single-column-rubric.md#3-context-building-make-the-frame-workable)
 - [AI literacy core row pack](../ROW_PACKS/ai-literacy-core.md#context-building-make-the-frame-workable)
 - [Teacher rubric example](../RUBRIC/EXAMPLES/teacher-rubric-example-define-a-line-elementary.md#row-3-context-building-make-the-frame-workable)
+- [Student rubric template](../RUBRIC/student-single-column-rubric.md)
 
 **Protocol note:** POKE — surface assumptions to sharpen the frame.
 
@@ -95,6 +99,7 @@ See also: [MAP](../MAP.md)
 - [Teacher rubric](../RUBRIC/teacher-single-column-rubric.md#4-staying-with-the-unknown)
 - [AI literacy core row pack](../ROW_PACKS/ai-literacy-core.md#staying-with-the-unknown)
 - [Teacher rubric example](../RUBRIC/EXAMPLES/teacher-rubric-example-define-a-line-elementary.md#row-4-staying-with-the-unknown)
+- [Student rubric template](../RUBRIC/student-single-column-rubric.md)
 
 **Protocol note:** UNKNWN — remain unfixed long enough to learn.
 
@@ -118,5 +123,6 @@ See also: [MAP](../MAP.md)
 - [Teacher rubric](../RUBRIC/teacher-single-column-rubric.md#5-integrity--boundaries-safe--honest--appropriate)
 - [AI literacy core row pack](../ROW_PACKS/ai-literacy-core.md#integrity--boundaries-safe--honest--appropriate)
 - [Teacher rubric example](../RUBRIC/EXAMPLES/teacher-rubric-example-define-a-line-elementary.md#row-5-integrity--boundaries-safe--honest--appropriate)
+- [Student rubric template](../RUBRIC/student-single-column-rubric.md)
 
 **Protocol note:** NOGUARD — integrity and boundaries without coercion.

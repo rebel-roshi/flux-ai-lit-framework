@@ -1,5 +1,5 @@
 # Context Partnering
-Flux/Context Partnering is an AI literacy framework that also strengthens metacognition—because AI forces the question: who owns meaning, how do we verify, and how do we stay honest in uncertainty?
+Context Partnering is a Flux-aligned AI literacy framework and tool pack that also strengthens metacognition—because AI forces the question: who owns meaning, how do we verify, and how do we stay honest in uncertainty?
 
 ## Claim
 Any conversation continues because **humans invest attention to keep it going**.
