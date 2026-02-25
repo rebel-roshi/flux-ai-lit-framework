@@ -11,6 +11,12 @@ By “relational field,” we mean the shared interaction context that shapes wh
 ## Operationalization:
 This repo operationalizes those invariants as core practices that are auditable in learner artifacts (rubrics, checks, and revision traces).
 
+## Framework spine (routing)
+- Working axioms: `FOUNDATIONS/working-axioms.md`
+- Concepts: `CONCEPTS/context-partnering.md`, `CONCEPTS/interaction-frame.md`
+- Core practices: `LENSES/core-practices.md`
+- Artifacts/tool pack: `ROW_PACKS/`, `RUBRIC/`, `SCENARIOS/`, `EXAMPLES/`, `ALIGNMENT.md`, `TEACHER_EDUCATION/`, `MAP.md`
+
 ## What this is
 A Flux-aligned **AI literacy framework and tool pack**: row packs + scenarios + single-column rubrics that help learners steward shared context with AI without outsourcing responsibility.
 

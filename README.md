@@ -17,7 +17,9 @@ AI is the most visible place where uncertainty, authority, and verification get 
 - Mix in rows from other domains as needed (“row mixing”).
 
 ## Artifacts in this repo
+- Foundations (working axioms): `FOUNDATIONS/working-axioms.md`
 - Concept framing: `CONCEPTS/context-partnering.md`
+- Interaction frame concept: `CONCEPTS/interaction-frame.md`
 - Alignment crosswalk: `ALIGNMENT.md`
 - Core practices (field cards): `LENSES/core-practices.md`
 - Student single-column rubric: `RUBRIC/student-single-column-rubric.md`
@@ -33,8 +35,6 @@ Flux is a listening field, not a framework. This repo treats its three laws as *
 - POKE: begin from tension or friction; let the discomfort start the inquiry.
 - UNKNWN: remain unfixed; keep ambiguity alive long enough for new structure to emerge.
 - NOGUARD: dissolve to deepen; lead with vulnerable openness rather than control.
-
-Operational mapping: POKE → challenge first output / surface assumptions; UNKNWN → name uncertainty + take next step; NOGUARD → ownership + verification + integrity/boundaries.
 
 For the canonical spec, see [Flux Protocol](https://github.com/rebel-roshi/flux-protocol).
 
