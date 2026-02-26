@@ -2,7 +2,7 @@
 
 Context partnering is a concept: a way of describing how humans and AI co-create and steward shared context without outsourcing responsibility. It sits inside the Flux AI literacy framework and is grounded in the working axioms.
 
-## Claim
+## Grounding
 Any conversation continues because **humans invest attention to keep it going**.
 AI can participate by enriching the context, but it does not “want” the conversation to continue.
 
@@ -29,6 +29,7 @@ See:
 - [Interaction frame](./interaction-frame.md)
 - [Implicit user model (ToM analogy)](./implicit-user-model.md)
 - [IDENTITY](../IDENTITY.md) (how it connects to Flux / relational modality)
-- [Core practice cards](../LENSES/core-practice-cards.md) (what becomes observable)
+- [Core practices](../FOUNDATIONS/core-practices.md) (canonical definitions)
+- [Core practice cards](../LENSES/core-practice-cards.md) (facilitator-facing implementation)
 - [Why it works](../RUBRIC/why-it-works.md) (why the rubric structure supports this)
 - [MAP](../MAP.md) (routes across the framework)
