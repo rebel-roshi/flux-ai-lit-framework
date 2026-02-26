@@ -5,12 +5,15 @@ Connections carry the detail to keep this non-prescriptive; lean on the links as
 Protocol notes point to Flux as the underlying mechanism; the practices are this framework's classroom-facing expression that animates it.
 
 Protocol grounding: [Connection to Flux Protocol](../README.md#connection-to-flux-protocol) · [Flux mapping in row pack](../ROW_PACKS/ai-literacy-core.md#flux-mapping-optional-note)
+Canonical list: [Core practices](../FOUNDATIONS/core-practices.md)
 See also: [MAP](../MAP.md)
 
 ---
 
 ## Ownership (agency / authorship)
-**What this practice notices:** Who is responsible for meaning in the work, and how that responsibility shows up in choices and explanations.
+Canonical definition: [Core practices](../FOUNDATIONS/core-practices.md#ownership-agency--authorship)
+
+**Practice in action (facilitator-facing):**
 
 **Evidence cues (look fors):**
 - Student names the goal in their own words.
@@ -34,7 +37,9 @@ See also: [MAP](../MAP.md)
 ---
 
 ## Verification (validate with evidence)
-**What this practice notices:** Whether claims are treated as candidates and checked with domain evidence.
+Canonical definition: [Core practices](../FOUNDATIONS/core-practices.md#verification-validate-with-evidence)
+
+**Practice in action (facilitator-facing):**
 
 **Evidence cues (look fors):**
 - A concrete check is shown (test, example, source, second method).
@@ -58,7 +63,9 @@ See also: [MAP](../MAP.md)
 ---
 
 ## Context building (make the frame workable)
-**What this practice notices:** Whether the frame is made workable (terms, assumptions, constraints) before trust or use.
+Canonical definition: [Core practices](../FOUNDATIONS/core-practices.md#context-building-make-the-frame-workable)
+
+**Practice in action (facilitator-facing):**
 
 **Evidence cues (look fors):**
 - Key terms or assumptions are clarified.
@@ -82,7 +89,9 @@ See also: [MAP](../MAP.md)
 ---
 
 ## Staying with the unknown
-**What this practice notices:** Whether uncertainty is named without premature closure, and movement is made toward a next step.
+Canonical definition: [Core practices](../FOUNDATIONS/core-practices.md#staying-with-the-unknown)
+
+**Practice in action (facilitator-facing):**
 
 **Evidence cues (look fors):**
 - A specific unknown is named (not just “I’m stuck”).
@@ -106,7 +115,9 @@ See also: [MAP](../MAP.md)
 ---
 
 ## Integrity & boundaries (safe / honest / appropriate)
-**What this practice notices:** Whether the work stays honest, safe, and appropriate to policy and purpose.
+Canonical definition: [Core practices](../FOUNDATIONS/core-practices.md#integrity--boundaries-safe--honest--appropriate)
+
+**Practice in action (facilitator-facing):**
 
 **Evidence cues (look fors):**
 - Tool use is disclosed and consistent with norms.

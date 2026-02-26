@@ -27,7 +27,8 @@ This framework does not rely on judging intentions. It makes context partnering 
 See:
 - [Working axioms](../FOUNDATIONS/working-axioms.md)
 - [Interaction frame](./interaction-frame.md)
+- [Implicit user model (ToM analogy)](./implicit-user-model.md)
 - [IDENTITY](../IDENTITY.md) (how it connects to Flux / relational modality)
-- [Core practices](../LENSES/core-practices.md) (what becomes observable)
+- [Core practice cards](../LENSES/core-practice-cards.md) (what becomes observable)
 - [Why it works](../RUBRIC/why-it-works.md) (why the rubric structure supports this)
 - [MAP](../MAP.md) (routes across the framework)

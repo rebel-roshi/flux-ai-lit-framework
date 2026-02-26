@@ -17,7 +17,7 @@ and integrity/boundaries.
 ---
 
 ## Ownership (agency / authorship)
-See also: [Core practice card](../LENSES/core-practices.md#ownership-agency--authorship)
+See also: [Core practice card](../LENSES/core-practice-cards.md#ownership-agency--authorship)
 
 ### Row: `I can state my goal and make choices about how to use tools (including AI) to reach it.`
 - Tags: `DP:UNDERSTAND`, `AILIT:ENGAGE`
@@ -36,7 +36,7 @@ See also: [Core practice card](../LENSES/core-practices.md#ownership-agency--aut
 ---
 
 ## Verification (validate with evidence)
-See also: [Core practice card](../LENSES/core-practices.md#verification-validate-with-evidence)
+See also: [Core practice card](../LENSES/core-practice-cards.md#verification-validate-with-evidence)
 
 ### Row: `I can verify a tool/AI claim using domain evidence (test, example, source, or second method).`
 - Tags: `DP:EVALUATE`, `AILIT:MANAGE`
@@ -62,7 +62,7 @@ See also: [Core practice card](../LENSES/core-practices.md#verification-validate
 ---
 
 ## Context building (make the frame workable)
-See also: [Core practice card](../LENSES/core-practices.md#context-building-make-the-frame-workable)
+See also: [Core practice card](../LENSES/core-practice-cards.md#context-building-make-the-frame-workable)
 
 ### Row: `I can clarify key terms/assumptions/constraints before I trust an answer.`
 - Tags: `DP:UNDERSTAND`, `AILIT:ENGAGE`
@@ -81,7 +81,7 @@ See also: [Core practice card](../LENSES/core-practices.md#context-building-make
 ---
 
 ## Staying with the unknown
-See also: [Core practice card](../LENSES/core-practices.md#staying-with-the-unknown)
+See also: [Core practice card](../LENSES/core-practice-cards.md#staying-with-the-unknown)
 
 ### Row: `I can name what I don’t know yet and take one bounded next step.`
 - Tags: `DP:EVALUATE`, `AILIT:ENGAGE`
@@ -100,7 +100,7 @@ See also: [Core practice card](../LENSES/core-practices.md#staying-with-the-unkn
 ---
 
 ## Integrity & boundaries (safe / honest / appropriate)
-See also: [Core practice card](../LENSES/core-practices.md#integrity--boundaries-safe--honest--appropriate)
+See also: [Core practice card](../LENSES/core-practice-cards.md#integrity--boundaries-safe--honest--appropriate)
 
 ### Row: `I can follow our class norms for tool/AI use (privacy, attribution, appropriate use).`
 - Tags: `DP:UNDERSTAND`, `AILIT:MANAGE`

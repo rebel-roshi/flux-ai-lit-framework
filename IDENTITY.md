@@ -13,8 +13,9 @@ This repo operationalizes those invariants as core practices that are auditable 
 
 ## Framework spine (routing)
 - Working axioms: `FOUNDATIONS/working-axioms.md`
-- Concepts: `CONCEPTS/context-partnering.md`, `CONCEPTS/interaction-frame.md`
-- Core practices: `LENSES/core-practices.md`
+- Core practices (canonical): `FOUNDATIONS/core-practices.md`
+- Concepts: `CONCEPTS/context-partnering.md`, `CONCEPTS/interaction-frame.md`, `CONCEPTS/implicit-user-model.md`
+- Core practice cards: `LENSES/core-practice-cards.md`
 - Artifacts/tool pack: `ROW_PACKS/`, `RUBRIC/`, `SCENARIOS/`, `EXAMPLES/`, `ALIGNMENT.md`, `TEACHER_EDUCATION/`, `MAP.md`
 
 ## What this is

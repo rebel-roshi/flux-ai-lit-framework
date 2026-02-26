@@ -18,10 +18,12 @@ AI is the most visible place where uncertainty, authority, and verification get 
 
 ## Artifacts in this repo
 - Foundations (working axioms): `FOUNDATIONS/working-axioms.md`
+- Foundations (core practices): `FOUNDATIONS/core-practices.md`
 - Concept framing: `CONCEPTS/context-partnering.md`
 - Interaction frame concept: `CONCEPTS/interaction-frame.md`
+- Implicit user model concept: `CONCEPTS/implicit-user-model.md`
 - Alignment crosswalk: `ALIGNMENT.md`
-- Core practices (field cards): `LENSES/core-practices.md`
+- Core practices (field cards): `LENSES/core-practice-cards.md`
 - Student single-column rubric: `RUBRIC/student-single-column-rubric.md`
 - Teacher single-column rubric: `RUBRIC/teacher-single-column-rubric.md`
 - Why it works: `RUBRIC/why-it-works.md`

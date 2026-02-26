@@ -4,11 +4,11 @@ This rubric is designed to shift the classroom from “teacher as judge” to �
 *without* losing rigor.
 
 ### The five core practices (what becomes observable)
-- **Ownership (agency / authorship):** Who is responsible for meaning in the work, and how that ownership shows up in choices and explanations. See [Core practices](../LENSES/core-practices.md#ownership-agency--authorship).
-- **Verification (validate with evidence):** Whether claims are treated as candidates and checked with domain evidence. See [Core practices](../LENSES/core-practices.md#verification-validate-with-evidence).
-- **Context building (make the frame workable):** Whether the frame is made workable (terms, assumptions, constraints) before trust or use. See [Core practices](../LENSES/core-practices.md#context-building-make-the-frame-workable).
-- **Staying with the unknown:** Whether uncertainty is named and used productively toward a next step. See [Core practices](../LENSES/core-practices.md#staying-with-the-unknown).
-- **Integrity & boundaries (safe / honest / appropriate):** Whether the work stays honest, safe, and appropriate to policy and purpose. See [Core practices](../LENSES/core-practices.md#integrity--boundaries-safe--honest--appropriate).
+- **Ownership (agency / authorship):** Who is responsible for meaning in the work, and how that ownership shows up in choices and explanations. See [Core practices](../LENSES/core-practice-cards.md#ownership-agency--authorship).
+- **Verification (validate with evidence):** Whether claims are treated as candidates and checked with domain evidence. See [Core practices](../LENSES/core-practice-cards.md#verification-validate-with-evidence).
+- **Context building (make the frame workable):** Whether the frame is made workable (terms, assumptions, constraints) before trust or use. See [Core practices](../LENSES/core-practice-cards.md#context-building-make-the-frame-workable).
+- **Staying with the unknown:** Whether uncertainty is named and used productively toward a next step. See [Core practices](../LENSES/core-practice-cards.md#staying-with-the-unknown).
+- **Integrity & boundaries (safe / honest / appropriate):** Whether the work stays honest, safe, and appropriate to policy and purpose. See [Core practices](../LENSES/core-practice-cards.md#integrity--boundaries-safe--honest--appropriate).
 
 ### 1) It inverts control while keeping a shared standard
 - The teacher scaffolds the **Understanding** column (what “meets” looks like), so the target is clear.
