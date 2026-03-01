@@ -24,6 +24,8 @@ AI is the most visible place where uncertainty, authority, and verification get 
 - Implicit user model concept: `CONCEPTS/implicit-user-model.md`
 - Alignment crosswalk: `ALIGNMENT.md`
 - Map (core practice routes): `MAP.md`
+- Stewarding: `STEWARDING.md`
+- License: `LICENSE.md`
 - Core practice cards (facilitator-facing): `LENSES/core-practice-cards.md`
 - Student single-column rubric: `RUBRIC/student-single-column-rubric.md`
 - Teacher single-column rubric: `RUBRIC/teacher-single-column-rubric.md`
@@ -52,4 +54,5 @@ For many contexts, student-rubric-first is sufficient on its own. Add teacher ro
 - Capture common misconceptions and turn them into new rows.
 
 ## License / contribution note
-Use, remix, and extend. If you share back improvements or new scenarios, keep them small and concrete.
+Use, remix, and extend within the terms of CC BY-NC 4.0.  
+For how this framework is held, and what remains stable vs evolving, see `STEWARDING.md`.
