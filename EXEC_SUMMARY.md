@@ -61,6 +61,24 @@ This repo aims to support cultivated judgment by:
 
 ---
 
+## Progress markers
+Some parts of this framework travel as portable structure, while others—especially judgment—develop through experience. For evaluation and facilitation, it can help to name **progress markers**: not levels or a competency taxonomy, but observable signals such as:
+- noticing interaction-frame drift after the fact,
+- interrupting drift occasionally with a re-entry question,
+- diagnosing what’s missing in real time,
+- choosing re-entry questions that change the next move,
+- transferring these moves across tasks and domains,
+- calibrating judgment with others using shared artifacts.
+
+The same progress markers can show up at multiple layers:
+ - in student artifacts (student rubric evidence, checks, revisions),
+ - in teacher artifacts (teacher rubric notes, feedback, calibration),
+ - and in teacher-ed artifacts (facilitation notes, calibration records, how drifts were identified and re-entered).
+ 
+Progress markers are **supplemental**: the framework can be used without them, but naming them helps prevent purely mechanical rubric use and supports cultivated judgment without requiring an AI‑fluent individual to be “in the room.”
+
+---
+
 ## How to use this (one common loop)
 1) Pick a scenario.
 2) Use the **student rubric** (and optionally the teacher rubric).
