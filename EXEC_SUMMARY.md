@@ -1,8 +1,13 @@
 # Executive Summary — Flux AI Literacy Framework
 
-This repository is a **framework + tool pack** for practicing **context partnering** with AI: co‑creating and stewarding shared context with an AI system **without outsourcing responsibility**.
+This repository is a **framework + artifact kit** for practicing **context partnering** with AI: co‑creating and stewarding shared context with an AI system **without outsourcing responsibility**.
 
 It is designed to travel: someone who wasn’t “in the room” can pick it up, run a scenario, and produce **auditable artifacts** (rubric evidence, checks, and revision traces). It is also designed to preserve depth: the goal is not faster answers, but better responsibility, verification, and learning under uncertainty.
+
+## Why this exists
+The world becomes less luminous when we outsource our thinking—whether to institutions, experts, or machines. AI makes outsourcing feel frictionless.
+
+Flux AI literacy is an attempt to keep responsibility for meaning with the learner while still using AI to expand and refine shared context. In practice: **don’t outsource meaning; build context, test with evidence, grow judgment.**
 
 ---
 
@@ -20,21 +25,25 @@ Flux AI literacy treats that drift as a design problem: the work is to make the 
 - **Concepts**: vocabulary for what is happening in the interaction (e.g., context partnering, interaction frame).
 - **Core practices**: the stable, cross‑domain practices the framework trains and assesses.
 - **Cards**: facilitator‑facing prompts (common drifts → re‑entry questions).
-- **Artifacts**: row packs, scenarios, and single‑column rubrics that make practice auditable.
+- **Artifacts (the kit)**: row packs, scenarios, and single‑column rubrics that make practice auditable.
 
 ---
 
-## What stays minimal (and what makes it “full‑fledged”)
-**Minimal** here means:
-- a minimal set of **working axioms**,
-- a minimal set of **core practices** that remain stable across domains,
-- and a minimal set of **artifacts** needed to practice and audit the work.
+## Minimal in footprint, full in spine
+This framework is **minimal in footprint** and **full in spine**.
 
-“Full‑fledged” does **not** mean more bureaucracy. It means the spine is explicit and auditable:
-- foundations and concepts are named,
-- practices are defined,
-- facilitator moves are supported,
-- and evidence shows up in learner artifacts.
+**Minimal in footprint** means the framework keeps the invariant set small:
+- **2 working axioms** (foundational assumptions)
+- **5 core practices** (stable across domains)
+- a compact **artifact kit** (row packs, scenarios, and single‑column rubrics) that makes the work auditable
+
+**Full in spine** means the organizing logic is explicit and usable by someone who wasn’t “in the room”:
+- foundations and concepts are named and routed
+- practices are defined canonically
+- facilitator support exists (cards + teacher‑ed)
+- evidence shows up in learner artifacts (checks, notes, revision traces)
+
+This is intentionally not “full‑fledged” in the sense of bureaucracy or a competency taxonomy. It aims to travel without flattening the stance into policy or checklists.
 
 ---
 
@@ -71,10 +80,10 @@ Some parts of this framework travel as portable structure, while others—especi
 - calibrating judgment with others using shared artifacts.
 
 The same progress markers can show up at multiple layers:
- - in student artifacts (student rubric evidence, checks, revisions),
- - in teacher artifacts (teacher rubric notes, feedback, calibration),
- - and in teacher-ed artifacts (facilitation notes, calibration records, how drifts were identified and re-entered).
- 
+- in student artifacts (student rubric evidence, checks, revisions),
+- in teacher artifacts (teacher rubric notes, feedback, calibration),
+- and in teacher-ed artifacts (facilitation notes, calibration records, how drifts were identified and re-entered).
+
 Progress markers are **supplemental**: the framework can be used without them, but naming them helps prevent purely mechanical rubric use and supports cultivated judgment without requiring an AI‑fluent individual to be “in the room.”
 
 ---

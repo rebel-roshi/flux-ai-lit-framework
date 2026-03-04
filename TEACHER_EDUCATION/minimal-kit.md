@@ -1,4 +1,4 @@
-# Minimal Teacher-Education Kit (Flux-aligned AI literacy)
+# Minimally Viable Teacher-Education Kit
 
 This kit is the smallest repeatable way to teach **context partnering** using this repo’s artifacts.
 It is framework-delivery-through-tools: scenarios + row packs + single-column rubrics.

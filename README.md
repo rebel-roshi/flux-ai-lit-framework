@@ -1,12 +1,13 @@
 # Flux (Context Partnering) AI Literacy Framework
 
 ## What this is
-This repo packages a minimal **framework + tool pack** for practicing **context partnering**: co-creating and stewarding shared context with an AI system without outsourcing responsibility. It is designed to be used quickly, then extended with your own scenarios and rubric rows.
+This repo packages a **framework + tool pack** for practicing **context partnering**: co-creating and stewarding shared context with an AI system without outsourcing responsibility. It is designed to be used quickly, then extended with your own scenarios and rubric rows.
 
 The core artifacts are **single-column rubrics** (often called single-point) and short, concrete scenarios. You can mix rows across domains (“row mixing”) so the same literacy moves apply in math, writing, science, history, or any other subject area.
 
-## Why AI literacy is the proving ground
-AI is the most visible place where uncertainty, authority, and verification get stressed quickly. Practicing ownership, evidence, and productive uncertainty here makes transfer to other domains straightforward, because the underlying move is the same: steward shared context without giving away agency.
+## Why we started with AI literacy
+
+AI interactions tend to stress uncertainty, authority, and verification quickly. Practicing ownership, evidence, and productive uncertainty here makes transfer to other domains more straightforward, because the underlying move is the same: steward shared context without giving away agency.
 
 ## One common loop
 - Pick a scenario (or write one).
