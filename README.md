@@ -1,7 +1,7 @@
 # Flux (Context Partnering) AI Literacy Framework
 
 ## What this is
-This repo packages a **framework + tool pack** for practicing **context partnering**: co-creating and stewarding shared context with an AI system without outsourcing responsibility. It is designed to be used quickly, then extended with your own scenarios and rubric rows.
+This repo packages a **framework + artifact kit** for practicing **context partnering**: co-creating and stewarding shared context with an AI system without outsourcing responsibility. It is designed to be used quickly, then extended with your own scenarios and rubric rows.
 
 The core artifacts are **single-column rubrics** (often called single-point) and short, concrete scenarios. You can mix rows across domains (“row mixing”) so the same literacy moves apply in math, writing, science, history, or any other subject area.
 
@@ -18,6 +18,7 @@ AI interactions tend to stress uncertainty, authority, and verification quickly.
 - Mix in rows from other domains as needed (“row mixing”).
 
 ## Artifacts in this repo
+- Executive summary: `EXEC_SUMMARY.md`
 - Foundations (working axioms): `FOUNDATIONS/working-axioms.md`
 - Foundations (core practices / definitions): `FOUNDATIONS/core-practices.md`
 - Concept framing: `CONCEPTS/context-partnering.md`
@@ -25,7 +26,8 @@ AI interactions tend to stress uncertainty, authority, and verification quickly.
 - Implicit user model concept: `CONCEPTS/implicit-user-model.md`
 - Alignment crosswalk: `ALIGNMENT.md`
 - Map (core practice routes): `MAP.md`
-- Stewarding: `STEWARDING.md`
+- Stewarding: `STEWARDSHIP/STEWARDING.md`
+- Open questions: `STEWARDSHIP/FRAMEWORK_OPEN_QUESTIONS.md`
 - License: `LICENSE.md`
 - Core practice cards (facilitator-facing): `LENSES/core-practice-cards.md`
 - Student single-column rubric: `RUBRIC/student-single-column-rubric.md`
@@ -56,4 +58,4 @@ For many contexts, student-rubric-first is sufficient on its own. Add teacher ro
 
 ## License / contribution note
 Use, remix, and extend within the terms of CC BY-NC 4.0.  
-For how this framework is held, and what remains stable vs evolving, see `STEWARDING.md`.
+For how this framework is held, and what remains stable vs evolving, see `STEWARDSHIP/STEWARDING.md`.

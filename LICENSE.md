@@ -31,4 +31,4 @@ If you adapt the work, please make clear that changes were made and, where pract
   Flux AI literacy framework.
 - Where material is explicitly noted as adapted from upstream Flux Protocol content,
   retain any required upstream attribution and licensing notices.
-- For stewarding expectations and canonical-reference guidance, see `STEWARDING.md`.
+- For stewarding expectations and canonical-reference guidance, see `STEWARDSHIP/STEWARDING.md`.

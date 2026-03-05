@@ -109,4 +109,4 @@ Progress markers are **supplemental**: the framework can be used without them, b
 
 ## License and stewardship
 - **License**: CC BY‑NC 4.0 — see `LICENSE.md`.
-- **Stewardship**: what stays stable vs evolving — see `STEWARDING.md`.
+- **Stewardship**: what stays stable vs evolving — see `STEWARDSHIP/STEWARDING.md`.

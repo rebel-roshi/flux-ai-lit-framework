@@ -16,10 +16,10 @@ This repo operationalizes those invariants as core practices that are auditable 
 - Core practices (canonical): `FOUNDATIONS/core-practices.md`
 - Concepts: `CONCEPTS/context-partnering.md`, `CONCEPTS/interaction-frame.md`, `CONCEPTS/implicit-user-model.md`
 - Core practice cards: `LENSES/core-practice-cards.md`
-- Artifacts/tool pack: `ROW_PACKS/`, `RUBRIC/`, `SCENARIOS/`, `EXAMPLES/`, `ALIGNMENT.md`, `TEACHER_EDUCATION/`, `MAP.md`
+- Artifacts/artifact kit: `ROW_PACKS/`, `RUBRIC/`, `SCENARIOS/`, `EXAMPLES/`, `ALIGNMENT.md`, `TEACHER_EDUCATION/`, `MAP.md`
 
 ## What this is
-A Flux-aligned **AI literacy framework and tool pack**: row packs + scenarios + single-column rubrics that help learners steward shared context with AI without outsourcing responsibility.
+A Flux-aligned **AI literacy framework and artifact kit**: row packs + scenarios + single-column rubrics that help learners steward shared context with AI without outsourcing responsibility.
 
 ## What this is not
 - Not a curriculum.
