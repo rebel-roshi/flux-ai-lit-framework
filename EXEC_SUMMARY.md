@@ -5,7 +5,7 @@ This repository is a **framework + artifact kit** for practicing **context partn
 It is designed to travel: someone who wasn’t “in the room” can pick it up, run a scenario, and produce **auditable artifacts** (rubric evidence, checks, and revision traces). It is also designed to preserve depth: the goal is not faster answers, but better responsibility, verification, and learning under uncertainty.
 
 ## Why this exists
-The world becomes less luminous when we outsource our thinking—whether to institutions, experts, or machines. AI makes outsourcing feel frictionless.
+The world becomes relatively less luminous when we outsource our thinking—whether to institutions, experts, or machines. AI makes outsourcing feel frictionless.
 
 Flux AI literacy is an attempt to keep responsibility for meaning with the learner while still using AI to expand and refine shared context. In practice: **don’t outsource meaning; build context, test with evidence, grow judgment.**
 

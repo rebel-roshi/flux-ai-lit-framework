@@ -1,11 +1,13 @@
 # Open Questions (Flux AI Literacy Framework)
 
 > Quick start: run one scenario for 10–20 minutes, capture (1) student rubric evidence, (2) one re-entry question + one revision, and (3) one verification check trace. Then use 1–3 questions below to evaluate what changed.
+> Return: (a) the artifacts, (b) which question(s) you tested, (c) what you observed, and (d) what would change your mind.
 
 This framework is intentionally **auditable in artifacts** (rubric evidence, checks, revision traces). The questions below are not “claims we’ve proven.” They are **evaluation prompts** meant to guide collaborators, reviewers, and teacher educators toward evidence that would strengthen—or falsify—key parts of the framework.
 
 **How to use this file**
 - Pick 1–3 questions that match your context.
+- If you’re not sure where to start: begin with **Q4 (portability)** or **Q3 (verification)**.
 - Run a short scenario + rubric loop.
 - Collect artifacts (student rubric, teacher rubric notes, revisions, checks).
 - Note what evidence you saw and what would change your mind.
@@ -116,6 +118,7 @@ This framework is intentionally **auditable in artifacts** (rubric evidence, che
 **What evidence would count:**
 - Re-entry prompts steer learners from rhetoric to checks.
 - Rubric evidence references concrete verification rather than tone.
+- At least one check that could have *falsified* the claim (counterexample, stress test, source cross-check) and what happened.
 
 **Where to look:** student rubric entries, teacher notes, revisions, check traces.
 
